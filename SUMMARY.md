@@ -1,6 +1,5 @@
 # Table of contents
 
-* [Notes](README.md)
 * [Git](git/README.md)
   * [01\_Git简介](Git/01\_Git简介.md)
   * [02\_Git基础命令](git/02git-ji-chu-ming-ling.md)
@@ -15,6 +14,6 @@
   * [PyTorch模型训练](pytorch/02pytorch-mo-xing-xun-lian.md)
   * [Pytorch可视化学习](pytorch/03pytorch-ke-shi-hua-xue-xi.md)
   * [PyTorch工具包](pytorch/04pytorch-gong-ju-bao.md)
-* [机器学习](ji-qi-xue-xi/README.md)
-  * [01\_机器学习介绍](机器学习/01\_机器学习介绍.md)
-  * [02\_回归](ji-qi-xue-xi/02-hui-gui.md)
+* [ML](ML/README.md)
+  * [01\_机器学习介绍](ML/01\_机器学习介绍.md)
+  * [02\_回归](ML/02_回归.md)
